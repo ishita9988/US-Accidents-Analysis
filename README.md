@@ -6,7 +6,7 @@ This is an exploratory data analysis project on US Accidents aimed at analyzing 
 
 ## Dataset
 
-* From kaggle: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+* From [kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 * The accident data is collected from February 2016 to Dec 2021
 * There are about 2.8 million accidents records in the dataset
 * The dataset contains 49 states of the USA 
